@@ -1,0 +1,29 @@
+html {
+  text-align: center;
+}
+img {
+  border-radius: 50px;
+}
+#twitter {
+  font-family: Helvetica;
+  font-weight: bold;
+}
+#steam {
+  font-family: Helvetica;
+  font-weight: bold;
+}
+body {
+  background-color: slateblue;
+  font-family: Georgia;
+  color: white;
+}
+a {
+  background-color: white;
+  font-size: 20px;
+  border-radius: 30px;
+  padding: 5px;
+  display: block;
+  margin: 10px;
+  color: slateblue;
+  text-align: center;
+}
