@@ -2,7 +2,10 @@ html {
   text-align: center;
 }
 img {
-  border-radius: 50px;
+  height: 350px;
+  width: 350px;
+  border-radius: 500px;
+  border: solid 2px black;
 }
 #twitter {
   font-family: Helvetica;
@@ -19,11 +22,11 @@ body {
 }
 a {
   background-color: white;
-  font-size: 20px;
-  border-radius: 30px;
-  padding: 5px;
-  display: block;
-  margin: 10px;
+  font-size: 30px;
+  border-radius: 20px;
+  padding-left: 25px;
+  padding-right: 25px;
+  margin: 20px;
   color: slateblue;
   text-align: center;
 }
