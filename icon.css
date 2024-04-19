@@ -1,0 +1,9 @@
+#icon {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  border: solid 2px black;
+  border-radius: 300px;
+  height: 200px;
+  width: 200px;
+}

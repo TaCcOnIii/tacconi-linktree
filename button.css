@@ -1,0 +1,10 @@
+a {
+  background-color: white;
+  font-family: verdana;
+  font-weight: bold;
+  border-radius: 30px;
+  border: solid 2px black;
+  padding-bottom: 2px;
+  color: black;
+  cursor: pointer;
+}

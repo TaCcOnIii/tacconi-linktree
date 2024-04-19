@@ -1,0 +1,39 @@
+#title {
+  font-size: 30px;
+  text-align: center;
+  font-family: monospace;
+  font-weight: bold;
+  margin-left: 30%;
+  margin-right: 30%;
+  color: rgb(255, 255, 255);
+  text-decoration: underline;
+}
+#subtitle {
+  font-size: 25px;
+  text-align: center;
+  font-family: inherit;
+  font-weight: bold;
+  color: black;
+}
+#paragraph {
+  font-size: 20px;
+  text-align: center;
+  font-family: inherit;
+  font-weight: bold;
+  color: rgb(0, 0, 0);
+}
+#html {
+  color: rgb(240, 140, 25);
+}
+#css {
+  color: rgb(41, 139, 252);
+}
+#py {
+  color: rgb(55, 55, 151);
+}
+#thon {
+  color: rgb(184, 184, 50);
+}
+#javascript {
+  color: #ffd43b;
+}
